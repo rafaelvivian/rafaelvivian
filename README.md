@@ -11,4 +11,4 @@
 ##
 
 ### About me
-I teach. Sometimes I research.
+I teach. Sometimes I do research.
